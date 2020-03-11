@@ -7,7 +7,7 @@ LibSeek is an open-source prototype software that can be used for recommending p
 
 Please feel free to use this dataset in your research, and it would be appreciated if you could cite the following paper.
 
-Diversified Third-Party Library Prediction for Mobile App Development. Q. He, B. Li, F. Chen, J. Grundy, X. Xia and Y. Yang. IEEE Transactions on Software Engineering (2020).
+> Diversified Third-Party Library Prediction for Mobile App Development. Q. He, B. Li, F. Chen, J. Grundy, X. Xia and Y. Yang. IEEE Transactions on Software Engineering (2020).
 
 # How to use
 
